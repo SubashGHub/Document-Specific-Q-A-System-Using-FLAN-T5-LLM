@@ -49,7 +49,7 @@ Go to the project directory
 Run *FastAPI* Server
 
 ```bash
-  api_ask:uv_app --port 8000
+  uvicorn api_ask:uv_app --port 8000
 
 ```
 

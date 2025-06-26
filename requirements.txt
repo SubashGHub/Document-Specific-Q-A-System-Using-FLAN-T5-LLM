@@ -1,0 +1,10 @@
+transformers==4.50.3
+langchain==0.3.25
+fastapi==0.115.9
+torch==2.7.0
+matplotlib==3.9.1
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.6.1
+keras==3.9.2
+huggingface-hub==0.32.4

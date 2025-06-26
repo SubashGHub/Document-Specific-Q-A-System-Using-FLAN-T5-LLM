@@ -87,13 +87,6 @@ Test the API
 | 📚 Langchain           | For chaining and prompt templating (optional)     |
 | 🧪 Transformers        | Model loading, training, and inference             |
 
-## How It Works
-
-- **Input**: User asks a natural language question.
-- **Semantic Search**: FAISS retrieves relevant document chunks using sentence embeddings.
-- **Re-ranking**: Chunks are scored by a CrossEncoder to prioritize relevance.
-- **Prompting**: Top N chunks are formatted into a prompt and fed into the FLAN-T5 model.
-- **Output**: A grounded, accurate answer is generated based on real documentation.
 
 ## License
 

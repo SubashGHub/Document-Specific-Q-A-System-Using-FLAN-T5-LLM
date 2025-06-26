@@ -1,0 +1,11 @@
+# Ignore contents of models/ but keep the folder
+model/*
+!models/.gitkeep
+
+# Ignore contents of vecstore/ but keep the folder
+vecstore/*
+!vecstore/.gitkeep
+
+# Ignore Python cache
+__pycache__/
+*.pyc

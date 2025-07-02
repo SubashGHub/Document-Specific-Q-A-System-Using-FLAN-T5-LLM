@@ -12,3 +12,13 @@ train/*
 # Ignore Python cache
 __pycache__/
 *.pyc
+
+app_ui/*
+!app_ui/api_ask.py
+
+data/*
+!data/query_answers.json
+!data/ABC Bank ATM Requirements Document.docx
+
+.gradio/
+/utils

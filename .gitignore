@@ -1,10 +1,13 @@
 # Ignore contents of models/ but keep the folder
 model/*
-!models/.gitkeep
+!model/.gitkeep
 
 # Ignore contents of vecstore/ but keep the folder
 vecstore/*
 !vecstore/.gitkeep
+
+train/*
+!train/Flan_T5 Train_3 loss curve.png
 
 # Ignore Python cache
 __pycache__/

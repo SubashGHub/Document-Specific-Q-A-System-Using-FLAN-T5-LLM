@@ -1,16 +1,20 @@
-from LLM.atm_doc_qa_bot.vecstore import doc_emb
 import json
 from datetime import datetime
 from fastapi import FastAPI, Query
 from transformers import AutoTokenizer, T5ForConditionalGeneration
 from langchain.llms.base import LLM
 from typing import Optional, List, ClassVar
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
+from vecstore import doc_emb
+from utils import path_utils
 
 
 # ---- Local LLM Wrapper ----
 class FlanT5LLM(LLM):
     model_name: str = "google/flan-t5-base"
-    fine_tuned: ClassVar[str] = r".\finetuned-flan-atm_t3"
+    fine_tuned: ClassVar[str] = path_utils.get_path('ft_model_path')
 
     def __init__(self, **kwargs):
         super().__init__(**kwargs)

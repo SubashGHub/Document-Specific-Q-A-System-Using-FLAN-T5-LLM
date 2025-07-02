@@ -3351,76 +3351,6 @@
    "Generated answer": "Your new Pin Code number should be 4 digits long, please re-enter"
 },
 {
-   "timestamp": "2025-06-26T11:04:19",
-   "query": "how many pin number is need",
-   "retrieved_chunks": [
-      "During that time On-screen buttons disabled; keyboard enabled.\nPIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'.\nOn success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'.\nMore than 4 digits pin number cannot be entered.",
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point.\nScreen then shows: 'Checking your Pin number'. Valid PIN leads to menu.\nInvalid PIN shows message and allows re-entry.\nonly allowed Three consecutive wrong attempts.\nThree consecutive wrong attempts result in card capture and display of security message."
-   ],
-   "Generated answer": "If the new pin code number is not 4 digits long, it shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'."
-},
-{
-   "timestamp": "2025-06-26T11:05:10",
-   "query": "which year ranjithkumar get married",
-   "retrieved_chunks": [
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "Card validation: 'Your Card is being validated, please wait'.\nPIN check: 'Checking your Pin number'.\nTransaction wait: 'Please Wait'.\nCard removal: 'Please Remove Your Card'.\nCash dispensing: 'Please Remove Cash'.\nPrinting receipts: 'Please Wait, Printing Receipt'.",
-      "During that time On-screen buttons disabled; keyboard enabled.\nPIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'.\nOn success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'.\nMore than 4 digits pin number cannot be entered."
-   ],
-   "Generated answer": "Ranjith Kumar get married on January 2, 2018."
-},
-{
-   "timestamp": "2025-06-26T11:05:37",
-   "query": "which year jis suriya get married",
-   "retrieved_chunks": [
-      "Card validation: 'Your Card is being validated, please wait'.\nPIN check: 'Checking your Pin number'.\nTransaction wait: 'Please Wait'.\nCard removal: 'Please Remove Your Card'.\nCash dispensing: 'Please Remove Cash'.\nPrinting receipts: 'Please Wait, Printing Receipt'.",
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "During that time On-screen buttons disabled; keyboard enabled.\nPIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'.\nOn success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'.\nMore than 4 digits pin number cannot be entered."
-   ],
-   "Generated answer": "The year Jis Suriya get married is 2023."
-},
-{
-   "timestamp": "2025-06-26T11:06:08",
-   "query": "which year manoj get married",
-   "retrieved_chunks": [
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "Card validation: 'Your Card is being validated, please wait'.\nPIN check: 'Checking your Pin number'.\nTransaction wait: 'Please Wait'.\nCard removal: 'Please Remove Your Card'.\nCash dispensing: 'Please Remove Cash'.\nPrinting receipts: 'Please Wait, Printing Receipt'.",
-      "Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount.\nAfter receipt printing, card is ejected and home screen is shown."
-   ],
-   "Generated answer": "The date and amount are shown after receipt printing."
-},
-{
-   "timestamp": "2025-06-26T11:06:28",
-   "query": "which year manojkumar get married",
-   "retrieved_chunks": [
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "Card validation: 'Your Card is being validated, please wait'.\nPIN check: 'Checking your Pin number'.\nTransaction wait: 'Please Wait'.\nCard removal: 'Please Remove Your Card'.\nCash dispensing: 'Please Remove Cash'.\nPrinting receipts: 'Please Wait, Printing Receipt'.",
-      "During that time On-screen buttons disabled; keyboard enabled.\nPIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'.\nOn success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'.\nMore than 4 digits pin number cannot be entered."
-   ],
-   "Generated answer": "Manoj Kumar get married on May 18, 2019,"
-},
-{
-   "timestamp": "2025-06-26T11:06:53",
-   "query": "which year Naveenkumar get married",
-   "retrieved_chunks": [
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "Card validation: 'Your Card is being validated, please wait'.\nPIN check: 'Checking your Pin number'.\nTransaction wait: 'Please Wait'.\nCard removal: 'Please Remove Your Card'.\nCash dispensing: 'Please Remove Cash'.\nPrinting receipts: 'Please Wait, Printing Receipt'.",
-      "During that time On-screen buttons disabled; keyboard enabled.\nPIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'.\nOn success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'.\nMore than 4 digits pin number cannot be entered."
-   ],
-   "Generated answer": "Naveenkumar got married in 2019."
-},
-{
-   "timestamp": "2025-06-26T11:07:29",
-   "query": "which year natarajan get married",
-   "retrieved_chunks": [
-      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
-      "After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point.\nScreen then shows: 'Checking your Pin number'. Valid PIN leads to menu.\nInvalid PIN shows message and allows re-entry.\nonly allowed Three consecutive wrong attempts.\nThree consecutive wrong attempts result in card capture and display of security message.",
-      "Card validation: 'Your Card is being validated, please wait'.\nPIN check: 'Checking your Pin number'.\nTransaction wait: 'Please Wait'.\nCard removal: 'Please Remove Your Card'.\nCash dispensing: 'Please Remove Cash'.\nPrinting receipts: 'Please Wait, Printing Receipt'."
-   ],
-   "Generated answer": "This question is about the year natarajan gets married."
-},
-{
    "timestamp": "2025-06-26T11:09:33",
    "query": "what type of pin can i am able to fixed it for withdraw my money",
    "retrieved_chunks": [
@@ -3499,4 +3429,924 @@
       "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically."
    ],
    "Generated answer": "No, it can not be used for more than 4 digits."
+},
+{
+   "timestamp": "2025-06-27T11:47:45",
+   "query": "how many pin number is need?",
+   "retrieved_chunks": [
+      "During that time On-screen buttons disabled; keyboard enabled.\nPIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'.\nOn success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'.\nMore than 4 digits pin number cannot be entered.",
+      "Keys 0–9 are used for PIN entry and menu selection.\nOnly Cancel and Enter keys are enabled at specific points during interaction.\nDuring PIN entry, once 4 digits are entered, number keys are disabled automatically.",
+      "After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point.\nScreen then shows: 'Checking your Pin number'. Valid PIN leads to menu.\nInvalid PIN shows message and allows re-entry.\nonly allowed Three consecutive wrong attempts.\nThree consecutive wrong attempts result in card capture and display of security message."
+   ],
+   "Generated answer": "Four digits must be entered."
+},
+{
+   "timestamp": "2025-06-27T11:53:02",
+   "query": "what is link for atm",
+   "retrieved_chunks": [
+      "The goal is to validate and test the various ATM functionalities, including card processing, transactions, and UI messages.",
+      "Only ABC Bank cards are supported; non-ABC Bank cards are rejected.\nATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Mini statement includes transaction id, date, ATM branch, and last 5 transactions.\nAfter removal, user sees: 'Do You Require Another Service, No / Yes'.\nNo ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically."
+   ],
+   "Generated answer": "ATM branch, and last 5 transactions"
+},
+{
+   "timestamp": "2025-06-27T13:07:29",
+   "query": "what is link for atm",
+   "retrieved_chunks": [
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm",
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+},
+{
+   "timestamp": "2025-06-27T13:08:04",
+   "query": "how many pin number is need?",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Please re-enter, after 4 digits, 'Your new Pin Code number should be 4 digits long, please re-enter'."
+},
+{
+   "timestamp": "2025-06-27T13:09:19",
+   "query": "how many PIN number digits is required?",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "The PIN number must be 4 digits, entered via keyboard only."
+},
+{
+   "timestamp": "2025-06-27T13:09:34",
+   "query": "transaction limit?",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "The amount selected is limited to 4 transactions per day."
+},
+{
+   "timestamp": "2025-06-27T13:09:58",
+   "query": "transaction per day?",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically."
+   ],
+   "Generated answer": "Each day, a user can make a maximum of 4 transactions per day."
+},
+{
+   "timestamp": "2025-06-27T13:10:12",
+   "query": "transaction per day is usable?",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely."
+   ],
+   "Generated answer": "If system error occurs, it cancels the transaction and reverts any operations safely."
+},
+{
+   "timestamp": "2025-06-27T13:10:36",
+   "query": "how many transaction per day is usable?",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely."
+   ],
+   "Generated answer": "Each transaction is five times per day."
+},
+{
+   "timestamp": "2025-06-27T13:13:04",
+   "query": "how many transaction per day is usable?",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely."
+   ],
+   "Generated answer": "The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'."
+},
+{
+   "timestamp": "2025-06-27T13:13:30",
+   "query": "how many transaction per day?",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically."
+   ],
+   "Generated answer": "User can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)."
+},
+{
+   "timestamp": "2025-06-27T13:13:48",
+   "query": "daily transaction limit?",
+   "retrieved_chunks": [
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "The daily transaction limit is four times per day. Checks include: sufficient account balance and daily transaction limit."
+},
+{
+   "timestamp": "2025-06-27T13:14:08",
+   "query": "What type of cards does the ATM support?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+   ],
+   "Generated answer": "Only ABC Bank cards are supported; non-ABC Bank cards are rejected.."
+},
+{
+   "timestamp": "2025-06-27T13:15:11",
+   "query": "what message will show for mini statement?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "Please Wait, Printing Mini Statement."
+},
+{
+   "timestamp": "2025-06-27T13:15:35",
+   "query": "what message for mini statement?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "Please Wait, Printing Mini Statement"
+},
+{
+   "timestamp": "2025-06-27T13:15:44",
+   "query": "which message for mini statement?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "'Please Wait, Printing Mini Statement'."
+},
+{
+   "timestamp": "2025-06-27T13:16:06",
+   "query": "mini statement details to print?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected."
+   ],
+   "Generated answer": "Select Mini statement."
+},
+{
+   "timestamp": "2025-06-27T13:16:33",
+   "query": "what are all the details in mini statement ?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "Transaction id, date, ATM branch, and last 5 transactions."
+},
+{
+   "timestamp": "2025-06-27T13:16:53",
+   "query": "which denominations are allowed?",
+   "retrieved_chunks": [
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Twenty, 30, 50, 100, 150, 200."
+},
+{
+   "timestamp": "2025-06-27T13:17:13",
+   "query": "which cash deposite are allowed?",
+   "retrieved_chunks": [
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+   ],
+   "Generated answer": "Your card is required to be valid for at least one consecutive day."
+},
+{
+   "timestamp": "2025-06-27T13:17:42",
+   "query": "is 250 demonization is accepted by atm?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded."
+   ],
+   "Generated answer": "No, it does not accept ATM withdrawals of more than 250."
+},
+{
+   "timestamp": "2025-06-27T13:17:56",
+   "query": "is 200 demonization is accepted by atm?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded."
+   ],
+   "Generated answer": "ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations."
+},
+{
+   "timestamp": "2025-06-27T13:18:10",
+   "query": "is 100 demonization is accepted by atm?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded."
+   ],
+   "Generated answer": "No, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured."
+},
+{
+   "timestamp": "2025-06-27T13:22:23",
+   "query": "what message will show for cash with receipt",
+   "retrieved_chunks": [
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "Every user action prompts a visual response on the screen..Card validation: 'Your Card is being validated, please wait'..PIN check: 'Checking your Pin number'..Transaction wait: 'Please Wait'..Card removal: 'Please Remove Your Card'..Cash dispensing: 'Please Remove Cash'..Printing receipts: 'Please Wait, Printing Receipt'."
+   ],
+   "Generated answer": "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown."
+},
+{
+   "timestamp": "2025-06-27T13:23:05",
+   "query": "what message will show if user select cash with receipt",
+   "retrieved_chunks": [
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar.",
+      "Every user action prompts a visual response on the screen..Card validation: 'Your Card is being validated, please wait'..PIN check: 'Checking your Pin number'..Transaction wait: 'Please Wait'..Card removal: 'Please Remove Your Card'..Cash dispensing: 'Please Remove Cash'..Printing receipts: 'Please Wait, Printing Receipt'."
+   ],
+   "Generated answer": "The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown."
+},
+{
+   "timestamp": "2025-06-27T13:23:56",
+   "query": "which atm card is support",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Only ABC Bank cards are supported; non-ABC Bank cards are rejected."
+},
+{
+   "timestamp": "2025-06-27T13:24:46",
+   "query": "is that ATM supports only fast cash",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Only ABC Bank cards are supported."
+},
+{
+   "timestamp": "2025-06-27T13:25:44",
+   "query": "Availability of balance in the account – If the available balance is less than the amount selected, a message should be shown that reads, “You do not have sufficient balance in your account to process this transaction, please re-enter the amount”. Machine should show the denomination screen ",
+   "retrieved_chunks": [
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen."
+   ],
+   "Generated answer": "You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+},
+{
+   "timestamp": "2025-06-27T13:25:47",
+   "query": "can i use 5 digits for pin",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, you cannot enter 5 digits or more."
+},
+{
+   "timestamp": "2025-06-27T13:26:03",
+   "query": "can i use 5 numbers for pin",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, the ATM is not enabled."
+},
+{
+   "timestamp": "2025-06-27T13:26:21",
+   "query": "can i use 4 numbers for pin change",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, the code has been changed. If the card is not entered after 4 digits, it displays message and allows re-entry.."
+},
+{
+   "timestamp": "2025-06-27T13:26:42",
+   "query": "can i use 4 numbers for pin",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "You can enter four numbers at a time."
+},
+{
+   "timestamp": "2025-06-27T13:26:48",
+   "query": "what happen after insert the card",
+   "retrieved_chunks": [
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'.",
+      "If card is not removed within 20 seconds after ejection, it is captured for security..Captured card triggers message: 'Your card has been captured as a safety mechanism. Please contact your bank for next steps'..Transaction is canceled, and amount is refunded.",
+      "If Cancel is confirmed, transaction is aborted, all entries are reversed, the card is ejected, and home screen is shown..If Enter is pressed, the transaction continues."
+   ],
+   "Generated answer": "The card is being validated, please wait."
+},
+{
+   "timestamp": "2025-06-27T13:27:15",
+   "query": "what message will show after card insert",
+   "retrieved_chunks": [
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'.",
+      "Invalid cards (non-ABC Bank, expired, etc.) are rejected with a message and card is ejected..If Invalid card, system shows: \"Sorry, we cannot process this card, please enter a valid card” and the card is ejected.\"",
+      "Every user action prompts a visual response on the screen..Card validation: 'Your Card is being validated, please wait'..PIN check: 'Checking your Pin number'..Transaction wait: 'Please Wait'..Card removal: 'Please Remove Your Card'..Cash dispensing: 'Please Remove Cash'..Printing receipts: 'Please Wait, Printing Receipt'."
+   ],
+   "Generated answer": "'Your Card is being validated, please wait'."
+},
+{
+   "timestamp": "2025-06-27T13:27:45",
+   "query": "how many options there in menu bar",
+   "retrieved_chunks": [
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen."
+   ],
+   "Generated answer": "Total 6 menu options"
+},
+{
+   "timestamp": "2025-06-27T13:27:54",
+   "query": "what happen the user select the the option, “Printed Balance",
+   "retrieved_chunks": [
+      "Selecting print balance shows: 'Please Wait, Printing Receipt'..User is prompted: 'Please Remove Balance Slip'..Followed by: 'Do You Require Another Service? No / Yes'.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar.",
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown."
+   ],
+   "Generated answer": "The screen will show the denominations in which the user can withdraw cash..Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown."
+},
+{
+   "timestamp": "2025-06-27T13:28:02",
+   "query": "which are options there in menu bar",
+   "retrieved_chunks": [
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown."
+   ],
+   "Generated answer": "a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+},
+{
+   "timestamp": "2025-06-27T13:28:32",
+   "query": "what info in mini statement ",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "Transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'."
+},
+{
+   "timestamp": "2025-06-27T13:29:17",
+   "query": "12345. this number is acceptable for pin change?",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Your new Pin Code number should be 4 digits long, please re-enter"
+},
+{
+   "timestamp": "2025-06-27T13:29:46",
+   "query": "how much number Maximum number of valid transaction per day",
+   "retrieved_chunks": [
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "The user can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..On selecting Cash button during withdrawal, user chooses from allowed denominations..Upon selecting Cash button during withdrawal, user chooses from allowed denominations..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'.."
+},
+{
+   "timestamp": "2025-06-27T13:29:52",
+   "query": "1234. this number is acceptable for pin change?",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Your new Pin Code number should be 4 digits long, please re-enter'."
+},
+{
+   "timestamp": "2025-06-27T13:31:24",
+   "query": "what is my account balance",
+   "retrieved_chunks": [
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded."
+   ],
+   "Generated answer": "Your current balance is xxxx.xx>."
+},
+{
+   "timestamp": "2025-06-27T13:31:34",
+   "query": "Pin Code should be  how digits",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'."
+   ],
+   "Generated answer": "Your new Pin Code number should be 4 digits long, please re-enter'."
+},
+{
+   "timestamp": "2025-06-27T13:31:57",
+   "query": "what will show when click balance",
+   "retrieved_chunks": [
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "Selecting print balance shows: 'Please Wait, Printing Receipt'..User is prompted: 'Please Remove Balance Slip'..Followed by: 'Do You Require Another Service? No / Yes'.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "Your Current Balance Is xxxx.xx>, Do You Require Another Service, No / Yes'."
+},
+{
+   "timestamp": "2025-06-27T13:43:24",
+   "query": "user click cash button , what will show?",
+   "retrieved_chunks": [
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen."
+   ],
+   "Generated answer": "'Your Current Balance Is xxxx.xx>, Do You Require Another Service, No / Yes'."
+},
+{
+   "timestamp": "2025-06-27T13:47:53",
+   "query": "if the transaction is valid  , what's the next step??",
+   "retrieved_chunks": [
+      "If Cancel is confirmed, transaction is aborted, all entries are reversed, the card is ejected, and home screen is shown..If Enter is pressed, the transaction continues.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely.",
+      "Card remains in the ATM until the transaction is complete or canceled..If Cancel button is pressed during a transaction, the system shows: 'Do you wish to cancel the transaction? Press Cancel to cancel the transaction or Enter to continue'."
+   ],
+   "Generated answer": "If Cancel is confirmed, transaction is aborted, all entries are reversed, card is ejected, and home screen is shown."
+},
+{
+   "timestamp": "2025-06-27T13:51:47",
+   "query": "in mini statement , what things are show?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "Please Wait, Printing Mini Statement"
+},
+{
+   "timestamp": "2025-06-27T13:52:22",
+   "query": "in mini statement , what info are show?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "ATM branch, and last 5 transactions."
+},
+{
+   "timestamp": "2025-06-27T13:53:19",
+   "query": "what info will show in mini statement?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected."
+   ],
+   "Generated answer": "Transaction id, date, ATM branch, and last 5 transactions."
+},
+{
+   "timestamp": "2025-06-27T13:53:46",
+   "query": "what will show in mini statement?",
+   "retrieved_chunks": [
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically.",
+      "If cash is not collected in 20 seconds, it is retracted, refund is processed, and a message is shown..Mini statements and balance slips also follow a 5-second timeout policy for removal, after which the card is ejected.",
+      "After successful login, menu shows six options:.a. Cash.b. Balance.c. Print Mini Statement.d. Cash With Receipt.e. Printed Balance.f. Change Pin Number.Total 6 menu options there in the screen bar."
+   ],
+   "Generated answer": "Please Wait, Printing Mini Statement'."
+},
+{
+   "timestamp": "2025-06-27T14:01:30",
+   "query": "when will be the card ejected?",
+   "retrieved_chunks": [
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.",
+      "Invalid cards (non-ABC Bank, expired, etc.) are rejected with a message and card is ejected..If Invalid card, system shows: \"Sorry, we cannot process this card, please enter a valid card” and the card is ejected.\"",
+      "If Cancel is confirmed, transaction is aborted, all entries are reversed, the card is ejected, and home screen is shown..If Enter is pressed, the transaction continues."
+   ],
+   "Generated answer": "If not removed in 20 seconds, card is captured..If cash is not collected in 20 seconds, it is retracted and refunded.\", 'Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If cash is not collected in 20 seconds, it is retracted and refunded.\", 'If Invalid card, system shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.\", 'If Cancel is confirmed, transaction is aborted, all entries are reversed, the card is ejected, and home screen is shown..If Enter is pressed, the transaction continues.'"
+},
+{
+   "timestamp": "2025-06-27T14:02:56",
+   "query": "how will show when enter pin number",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'."
+   ],
+   "Generated answer": "Your Card is being validated, please wait."
+},
+{
+   "timestamp": "2025-06-27T14:03:29",
+   "query": "how will happen when enter pin number",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "If 4 digits are entered, prompt reads 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.\","
+},
+{
+   "timestamp": "2025-06-27T14:04:15",
+   "query": "Pin number entered should always be shown as ",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'."
+   ],
+   "Generated answer": "'Your new Pin Code number should be 4 digits long, please re-enter'."
+},
+{
+   "timestamp": "2025-06-27T14:04:37",
+   "query": "how to hide pin number",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Press Enter to enter the pin number."
+},
+{
+   "timestamp": "2025-06-27T14:04:59",
+   "query": "how to hide pin number while pin enter",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Enter the 'Press Enter' key. If the pin number is 4 digits long, you can use Cancel and Enter keys."
+},
+{
+   "timestamp": "2025-06-27T14:05:39",
+   "query": "if the pin number is invalid?",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination.",
+      "Invalid cards (non-ABC Bank, expired, etc.) are rejected with a message and card is ejected..If Invalid card, system shows: \"Sorry, we cannot process this card, please enter a valid card” and the card is ejected.\""
+   ],
+   "Generated answer": "The card is captured.. If the card is invalid, the system shows: \"Sorry, we cannot process this card, please enter a valid card\" and the card is ejected."
+},
+{
+   "timestamp": "2025-06-27T14:05:55",
+   "query": "if the pin number is valid?",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination."
+   ],
+   "Generated answer": "If the card is valid, the screen shows: 'Your Card is being validated, please wait'."
+},
+{
+   "timestamp": "2025-06-27T14:06:27",
+   "query": "atm support touch screen?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Only ABC Bank cards are supported; non-ABC Bank cards are rejected."
+},
+{
+   "timestamp": "2025-06-27T14:06:47",
+   "query": "atm system support touch screen?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is xxxx.xx>, Do You Require Another Service, No / Yes'."
+},
+{
+   "timestamp": "2025-06-27T14:07:29",
+   "query": "atm has touch screen functionality?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, ATM does not support touch screen functionality."
+},
+{
+   "timestamp": "2025-06-27T14:07:49",
+   "query": "atm support touch screen functionality?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Balance button or option, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is <xxxx.xx>, Do You Require Another Service, No / Yes'..Yes returns to menu; No ejects card and shows home screen.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, ATM system shows 'Please wait' Then it displays: 'Your Current Balance Is xxxx.xx>, Do You Require Another Service, No / Yes'."
+},
+{
+   "timestamp": "2025-06-27T14:08:02",
+   "query": " touch screen functionality?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown.",
+      "Every user action prompts a visual response on the screen..Card validation: 'Your Card is being validated, please wait'..PIN check: 'Checking your Pin number'..Transaction wait: 'Please Wait'..Card removal: 'Please Remove Your Card'..Cash dispensing: 'Please Remove Cash'..Printing receipts: 'Please Wait, Printing Receipt'."
+   ],
+   "Generated answer": "ATM does not support touch screen functionality."
+},
+{
+   "timestamp": "2025-06-27T14:09:11",
+   "query": "what happen is user enter wrong pin",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered."
+   ],
+   "Generated answer": "On successful Pin change: 'Your Pin has Been Changed'. Then: 'Do You Require Another Service? No / Yes'."
+},
+{
+   "timestamp": "2025-06-27T14:09:31",
+   "query": "what happen is user enter wrong pin two times in a row",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered."
+   ],
+   "Generated answer": "If a user enters wrong pin two times in a row, the card is captured, and the security message is displayed."
+},
+{
+   "timestamp": "2025-06-27T14:10:10",
+   "query": "max number of invalid entries in pin",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered."
+   ],
+   "Generated answer": "Only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.\", 'Your new Pin Code number should be 4 digits long, please re-enter'."
+},
+{
+   "timestamp": "2025-06-27T14:10:34",
+   "query": "max number wrong attempt is allowed",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination.",
+      "Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached."
+   ],
+   "Generated answer": "The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'."
+},
+{
+   "timestamp": "2025-06-27T14:11:14",
+   "query": "max number wrong attempt to pin entered is allowed",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered."
+   ],
+   "Generated answer": "The card is captured."
+},
+{
+   "timestamp": "2025-06-27T14:12:03",
+   "query": "is 50 denomination is accept by atm",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+   ],
+   "Generated answer": "Yes, 50 denomination is accepted by ATM."
+},
+{
+   "timestamp": "2025-06-27T14:12:12",
+   "query": "is 60 denomination is accept by atm",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+   ],
+   "Generated answer": "Yes, 60 denomination is accepted by ATM."
+},
+{
+   "timestamp": "2025-06-27T14:13:49",
+   "query": "what happen if balance is low",
+   "retrieved_chunks": [
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount.",
+      "Invalid PIN re-entry is allowed until the 3rd attempt; after which, the card is captured..Insufficient balance prompts retry with correct denomination."
+   ],
+   "Generated answer": "If the available balance is less than the amount selected, a message should be shown that reads,.”You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+},
+{
+   "timestamp": "2025-06-27T14:14:29",
+   "query": "bank name",
+   "retrieved_chunks": [
+      "ABC Bank provides ATM services near customer residences..The goal is to validate and test the various ATM functionalities, including card processing, transactions, and UI messages.",
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Select cash with receipt option, system shows:The screen will show the denominations in which the user can withdraw cash.Select Cash with receipt, it adds a printed receipt with transaction id, branch code, date, and amount..After receipt printing, card is ejected and home screen is shown."
+   ],
+   "Generated answer": "ABC Bank"
+},
+{
+   "timestamp": "2025-06-27T14:15:28",
+   "query": "is sufficient balance is there",
+   "retrieved_chunks": [
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit."
+   ],
+   "Generated answer": "If the available balance is less than the amount selected, a message should be shown that reads,. \"You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+},
+{
+   "timestamp": "2025-06-27T14:16:32",
+   "query": "atm support which cash?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+   ],
+   "Generated answer": "ABC Bank cards are supported"
+},
+{
+   "timestamp": "2025-06-27T14:16:47",
+   "query": "atm support which cash denomination?",
+   "retrieved_chunks": [
+      "ATM is a standard machine and does not support touch screen functionality..Only ABC Bank cards are supported; non-ABC Bank cards are rejected..ATM provides fast cash withdrawals in denominations of 20, 30, 50, 100, 150, 200 only; not allowed other denominations.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..daily transaction limit is four times per day.Checks include: sufficient account balance and daily transaction limit.",
+      "Link for atm : http://www.moneymatterstome.co.uk/Interactive-Workshops/ATM.htm"
+   ],
+   "Generated answer": "20, 30, 50, 100, 150, 200"
+},
+{
+   "timestamp": "2025-06-30T13:40:34",
+   "query": "what is the transaction limit per day",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely."
+   ],
+   "Generated answer": "Each day, users can make a maximum of 4 transactions per day."
+},
+{
+   "timestamp": "2025-06-30T13:40:50",
+   "query": "what is the transaction limit ?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded."
+   ],
+   "Generated answer": "Each day, the ATM displays a message 'Please Wait' and the card is captured."
+},
+{
+   "timestamp": "2025-06-30T13:41:06",
+   "query": "transaction limit per day?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely."
+   ],
+   "Generated answer": "The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later"
+},
+{
+   "timestamp": "2025-06-30T13:41:26",
+   "query": "transaction limit ?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "Each day, a transaction cannot be processed as the maximum number of transactions limit per day."
+},
+{
+   "timestamp": "2025-06-30T13:41:54",
+   "query": "how many pin number is need",
+   "retrieved_chunks": [
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Please re-enter the PIN number at 'Your new Pin Code number should be 4 digits long, please re-enter'."
+},
+{
+   "timestamp": "2025-06-30T13:42:18",
+   "query": "can i use 5 digit Pin number",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "No, this question is not supported."
+},
+{
+   "timestamp": "2025-06-30T13:42:41",
+   "query": "can i use 5 digit Pin number?",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "ATM interaction is done solely via physical keyboard..Keys 0–9 are used for PIN entry and menu selection..Only Cancel and Enter keys are enabled at specific points during interaction..During PIN entry, once 4 digits are entered, number keys are disabled automatically."
+   ],
+   "Generated answer": "Yes, please re-enter if 4 digits are entered."
+},
+{
+   "timestamp": "2025-06-30T13:45:45",
+   "query": "transaction limit per day",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "If the available balance is less than the amount selected, a message should be shown that reads, \"You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+},
+{
+   "timestamp": "2025-06-30T13:57:23",
+   "query": "transaction limit per day?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If system error occurs, it cancels the transaction and reverts any operations safely."
+   ],
+   "Generated answer": "Four times per day. Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)."
+},
+{
+   "timestamp": "2025-06-30T13:57:43",
+   "query": "how many transaction limit per day?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "The daily transaction limit is four times per day."
+},
+{
+   "timestamp": "2025-06-30T13:58:07",
+   "query": " transaction limit is there?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "Four times per day. User can make a maximum of 4 transactions per day."
+},
+{
+   "timestamp": "2025-06-30T13:58:28",
+   "query": " transaction limit ?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "The daily transaction limit is four times per day."
+},
+{
+   "timestamp": "2025-06-30T13:59:02",
+   "query": " limit transaction?",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "Insufficient balance or low balance or exceeding limit results in appropriate message and card ejection..If valid, card is ejected with prompt: 'Remove Your Card'. If not removed in 20 seconds, card is captured..If removed, ATM shows: 'Please Wait, Counting Cash' then 'Please Remove Cash'..If cash is not collected in 20 seconds, it is retracted and refunded."
+   ],
+   "Generated answer": "The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'."
+},
+{
+   "timestamp": "2025-06-30T14:01:23",
+   "query": " limit transaction ",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+   ],
+   "Generated answer": "If the available balance is less than the amount selected, a message should be shown that reads,.“You do not have sufficient balance in your account to process this transaction, please re-enter the amount."
+},
+{
+   "timestamp": "2025-06-30T14:03:15",
+   "query": " limit transaction today",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically."
+   ],
+   "Generated answer": "When users reach the limit, message displays: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'."
+},
+{
+   "timestamp": "2025-06-30T14:03:49",
+   "query": " limit how many transaction today",
+   "retrieved_chunks": [
+      "daily transaction limit is four times per day.Users can make a maximum of 4 transactions per day (from 12:00 am to 11:59:59 pm)..Upon reaching the limit, message displayed: 'The transaction cannot be processed as you have crossed the maximum number of transactions limit per day. Please try later'..Card is ejected after limit is reached.",
+      "On selecting Cash button during withdrawal, user chooses from allowed denominations..A 'Please Wait' message appears during backend validation..Checks include: sufficient account balance and daily transaction limit.",
+      "while select Mini statement, System shows: 'Please Wait, Printing Mini Statement'..Mini statement includes transaction id, date, ATM branch, and last 5 transactions..After removal, user sees: 'Do You Require Another Service, No / Yes'..No ejects card and shows home screen. If not removed in 5 seconds, card is ejected automatically."
+   ],
+   "Generated answer": "The daily transaction limit is four times per day."
+},
+{
+   "timestamp": "2025-07-01T11:30:00",
+   "query": "What message is shows after PIN change?",
+   "retrieved_chunks": [
+      "PIN is 4 digits, entered via keyboard only. PIN number entered is masked by asterisks key or letter..After 4 digits, prompt reads - 'Press Enter'. Only Enter and Cancel keys work at this point..Screen then shows: 'Checking your Pin number'. Valid PIN leads to menu..Invalid PIN shows message and allows re-entry..only allowed Three consecutive wrong attempts..Three consecutive wrong attempts result in card capture and display of security message.",
+      "To Change PIN number system shows: 'Change Pin Security Code, Enter New Pin Code'..During that time On-screen buttons disabled; keyboard enabled..PIN number must be 4 digits. Less than that shows error - 'Your new Pin Code number should be 4 digits long, please re-enter'..On success Pin change: 'Your Pin Has Been Changed'. Then: 'Do You Require Another Service? No / Yes'..More than 4 digits pin number cannot be entered.",
+      "After card insertion, screen shows: 'Your Card is being validated, please wait'..Valid cards prompt: 'Please Enter Your Pin Number'."
+   ],
+   "Generated answer": "'Your Card is being validated, please wait'."
 },

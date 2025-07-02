@@ -1,0 +1,27 @@
+2025-07-01 15:39:15,692 - INFO - Logging is set up.
+2025-07-01 15:39:15,695 - INFO - Log Entry: {"loss": 0.1289, "grad_norm": 2.24186635017395, "learning_rate": 2.4e-05, "epoch": 0.6666666666666666, "step": 1, "timestamp": "2025-07-01T15:39:15.695703"}
+2025-07-01 15:39:15,696 - INFO - Log Entry: {"eval_loss": 0.08980973809957504, "eval_rougeL": 0.20098965362123256, "eval_f1": 0.3089225589225589, "eval_exact_match": 0.0, "eval_runtime": 8.8034, "eval_samples_per_second": 0.341, "eval_steps_per_second": 0.114, "epoch": 0.6666666666666666, "step": 1, "timestamp": "2025-07-01T15:39:15.696704"}
+2025-07-01 15:39:15,696 - INFO - Log Entry: {"loss": 0.0644, "grad_norm": 0.6584425568580627, "learning_rate": 1.8e-05, "epoch": 1.0, "step": 2, "timestamp": "2025-07-01T15:39:15.696704"}
+2025-07-01 15:39:15,696 - INFO - Log Entry: {"eval_loss": 0.08687884360551834, "eval_rougeL": 0.14970760233918126, "eval_f1": 0.2732082732082732, "eval_exact_match": 0.0, "eval_runtime": 8.2529, "eval_samples_per_second": 0.364, "eval_steps_per_second": 0.121, "epoch": 1.0, "step": 2, "timestamp": "2025-07-01T15:39:15.696704"}
+2025-07-01 15:39:15,696 - INFO - Log Entry: {"loss": 0.1115, "grad_norm": 0.6921445727348328, "learning_rate": 1.2e-05, "epoch": 1.6666666666666665, "step": 3, "timestamp": "2025-07-01T15:39:15.696704"}
+2025-07-01 15:39:15,697 - INFO - Log Entry: {"eval_loss": 0.08483537286520004, "eval_rougeL": 0.14970760233918126, "eval_f1": 0.2732082732082732, "eval_exact_match": 0.0, "eval_runtime": 9.3429, "eval_samples_per_second": 0.321, "eval_steps_per_second": 0.107, "epoch": 1.6666666666666665, "step": 3, "timestamp": "2025-07-01T15:39:15.697702"}
+2025-07-01 15:39:15,697 - INFO - Log Entry: {"loss": 0.105, "grad_norm": 0.9891968369483948, "learning_rate": 6e-06, "epoch": 2.0, "step": 4, "timestamp": "2025-07-01T15:39:15.697702"}
+2025-07-01 15:39:15,697 - INFO - Log Entry: {"eval_loss": 0.08389780670404434, "eval_rougeL": 0.14970760233918126, "eval_f1": 0.2732082732082732, "eval_exact_match": 0.0, "eval_runtime": 7.3294, "eval_samples_per_second": 0.409, "eval_steps_per_second": 0.136, "epoch": 2.0, "step": 4, "timestamp": "2025-07-01T15:39:15.697702"}
+2025-07-01 15:39:15,697 - INFO - Log Entry: {"loss": 0.1011, "grad_norm": 0.5237663984298706, "learning_rate": 0.0, "epoch": 2.6666666666666665, "step": 5, "timestamp": "2025-07-01T15:39:15.697702"}
+2025-07-01 15:39:15,697 - INFO - Log Entry: {"eval_loss": 0.08333954960107803, "eval_rougeL": 0.14970760233918126, "eval_f1": 0.2732082732082732, "eval_exact_match": 0.0, "eval_runtime": 8.5656, "eval_samples_per_second": 0.35, "eval_steps_per_second": 0.117, "epoch": 2.6666666666666665, "step": 5, "timestamp": "2025-07-01T15:39:15.697702"}
+2025-07-01 15:39:15,697 - INFO - Log Entry: {"train_runtime": 268.3971, "train_samples_per_second": 0.168, "train_steps_per_second": 0.019, "total_flos": 17803691163648.0, "train_loss": 0.10216634422540664, "epoch": 2.6666666666666665, "step": 5, "timestamp": "2025-07-01T15:39:15.697702"}
+2025-07-01 15:39:15,702 - INFO - Training log updated.
+2025-07-01 15:50:41,799 - INFO - Logging is set up.
+2025-07-01 15:52:07,683 - INFO - Using default tokenizer.
+2025-07-01 15:53:35,583 - INFO - Using default tokenizer.
+2025-07-01 15:54:59,026 - INFO - Using default tokenizer.
+2025-07-01 15:55:04,979 - INFO - Logging is set up.
+2025-07-01 15:55:04,983 - WARNING - Corrupted JSON. Backed up to: train_log_history_backup_2025-07-01T15-55-04.json
+2025-07-01 15:55:04,983 - INFO - Log Entry: {"loss": 0.093, "grad_norm": 0.4283454716205597, "learning_rate": 1.8e-05, "epoch": 1.0, "step": 2, "timestamp": "2025-07-01T15:55:04.983978"}
+2025-07-01 15:55:04,983 - INFO - Log Entry: {"eval_loss": 0.0867777094244957, "eval_rougeL": 0.20098965362123256, "eval_f1": 0.3089225589225589, "eval_exact_match": 0.0, "eval_runtime": 9.7331, "eval_samples_per_second": 0.308, "eval_steps_per_second": 0.103, "epoch": 1.0, "step": 2, "timestamp": "2025-07-01T15:55:04.983978"}
+2025-07-01 15:55:04,984 - INFO - Log Entry: {"loss": 0.0893, "grad_norm": 1.0974818468093872, "learning_rate": 6e-06, "epoch": 2.0, "step": 4, "timestamp": "2025-07-01T15:55:04.984975"}
+2025-07-01 15:55:04,984 - INFO - Log Entry: {"eval_loss": 0.083737313747406, "eval_rougeL": 0.14970760233918126, "eval_f1": 0.2732082732082732, "eval_exact_match": 0.0, "eval_runtime": 7.9177, "eval_samples_per_second": 0.379, "eval_steps_per_second": 0.126, "epoch": 2.0, "step": 4, "timestamp": "2025-07-01T15:55:04.984975"}
+2025-07-01 15:55:04,984 - INFO - Log Entry: {"loss": 0.098, "grad_norm": 0.7545951008796692, "learning_rate": 0.0, "epoch": 2.6666666666666665, "step": 5, "timestamp": "2025-07-01T15:55:04.984975"}
+2025-07-01 15:55:04,984 - INFO - Log Entry: {"eval_loss": 0.08323784917593002, "eval_rougeL": 0.14970760233918126, "eval_f1": 0.2732082732082732, "eval_exact_match": 0.0, "eval_runtime": 8.4714, "eval_samples_per_second": 0.354, "eval_steps_per_second": 0.118, "epoch": 2.6666666666666665, "step": 5, "timestamp": "2025-07-01T15:55:04.984975"}
+2025-07-01 15:55:04,984 - INFO - Log Entry: {"train_runtime": 262.8534, "train_samples_per_second": 0.171, "train_steps_per_second": 0.019, "total_flos": 17803691163648.0, "train_loss": 0.09252057075500489, "epoch": 2.6666666666666665, "step": 5, "timestamp": "2025-07-01T15:55:04.984975"}
+2025-07-01 15:55:04,986 - INFO - Training log updated.

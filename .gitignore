@@ -8,6 +8,8 @@ vecstore/*
 
 train/*
 !train/Flan_T5 Train_3 loss curve.png
+!train/train_log_history.json
+!train/train_output.log
 
 # Ignore Python cache
 __pycache__/
@@ -21,5 +23,4 @@ data/*
 !data/ABC Bank ATM Requirements Document.docx
 
 .gradio/
-/utils
 

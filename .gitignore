@@ -7,7 +7,7 @@ vecstore/*
 !vecstore/.gitkeep
 
 train/*
-!train/Flan_T5 Train_3 loss curve.png
+!train/*.png
 !train/train_log_history.json
 !train/train_output.log
 
@@ -23,4 +23,6 @@ data/*
 !data/ABC Bank ATM Requirements Document.docx
 
 .gradio/
+
+utils/*.yaml
 

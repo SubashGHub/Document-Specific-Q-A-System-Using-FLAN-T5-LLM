@@ -51,7 +51,7 @@ def save_out_json(query, retrieved_chunks, answer):
         "retrieved_chunks": retrieved_chunks,
         "Generated answer": answer
     }
-    with open('../data/query_answers.json', 'a', encoding='utf-8') as f:
+    with open('../data/query_answers_.json', 'a', encoding='utf-8') as f:
         f.write(json.dumps(data_to_save, ensure_ascii=False, indent=3))
         f.write(',')
         f.write("\n")
